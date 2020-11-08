@@ -1,13 +1,21 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "4.25",
+=======
+	"EngineAssociation": "4.24",
+>>>>>>> a3882a162d3454bb785d0bf5fb8f562ec4550e86
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "Substance",
 			"Enabled": true,
+<<<<<<< HEAD
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+=======
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/2f6439c2f9584f49809d9b13b16c2ba4"
+>>>>>>> a3882a162d3454bb785d0bf5fb8f562ec4550e86
 		},
 		{
 			"Name": "SteamVR",
